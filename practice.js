@@ -1,2 +1,3 @@
 let a= "string"
-console.log(a)
+let b="str"
+console.log(a,b)
