@@ -1,3 +1,3 @@
 let a= "string"
-let b="str"
+let b=2
 console.log(a,b)
